@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-fa&l5t=+l@w2nt0gif_&n!&n9aro19ax)g@(wmrz7*q$xw10w&
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'juniorj-py.azurewebsites.net'
+    'juniorj-svelte.azurewebsites.net'
 ]
 
 
